@@ -21,14 +21,12 @@ The codes to help solving puzzle
 
 ### 入力
 
-```math
-$H$ $W$ \\
-$X$ $Y$ $Z$ \\
-$A_{0,0}$ $A_{0,1}$ $\ldots$ $A_{0,W-1}$ \\
-$A_{1,0}$ $A_{1,1}$ $\ldots$ $A_{1,W-1}$ \\
-$\vdots$ \\
+$H$ $W$   
+$X$ $Y$ $Z$   
+$A_{0,0}$ $A_{0,1}$ $\ldots$ $A_{0,W-1}$   
+$A_{1,0}$ $A_{1,1}$ $\ldots$ $A_{1,W-1}$   
+$\vdots$   
 $A_{H-1,0}$ $A_{H-1,1}$ $\ldots$ $A_{H-1,W-1}$
-```
 
 
 
